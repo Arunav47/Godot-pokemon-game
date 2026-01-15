@@ -2336,7 +2336,7 @@ texture = ExtResource("1_lwks1")
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_xww2a"]
 resource_name = "building"
 texture = ExtResource("2_ohrjv")
-margins = Vector2i(1, 8)
+margins = Vector2i(0, 7)
 separation = Vector2i(1, 1)
 64:17/0 = 0
 64:18/0 = 0
